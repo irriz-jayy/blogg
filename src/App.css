@@ -1,0 +1,46 @@
+/* @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"); */
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Allura&family=Itim&family=Knewave&family=Prata&family=Unbounded&display=swap");
+
+.App {
+  text-align: center;
+  /* font-family: "Itim"; */
+}
+
+.card-title {
+  color: pink;
+}
+
+.form-label {
+  font-size: 25px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.item-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  gap: 2em;
+}
+.item-containerr {
+  margin: 20px;
+  gap: 2em;
+}
+
+.card {
+  text-align: center;
+  padding: 10px;
+  width: 1000px;
+  border-radius: 5px;
+  padding: 1em;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.image {
+  width: 100%;
+  height: 450px;
+}
